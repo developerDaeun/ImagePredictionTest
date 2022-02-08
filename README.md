@@ -150,3 +150,6 @@ TeachableMachine-React-Test
         ```
         
     - 실행 결과
+    ![image](https://user-images.githubusercontent.com/38871826/153037898-e32ea313-2cef-4306-b46a-554f1be08165.png)
+    ![image](https://user-images.githubusercontent.com/38871826/153037943-81eb13ce-e1d6-473d-b2d3-33a087a87b97.png)
+
